@@ -15,7 +15,7 @@ void burbuja(int a[],int n)
 int main()
 { int a[]={5,3,4,1,2};
   burbuja(a,5);
-  for(int i=o;i<5;i++)
+  for(int i=0;i<5;i++)
   {cout<<a[i]<<" ";
   }
   return 0;
