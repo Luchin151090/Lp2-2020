@@ -48,10 +48,10 @@ void bfs(int nodo){
 	}
 	if(existe)
 	{
-		cout<<"si ";
+		cout<<"si existe: "<<nodo;
 	}
 	else
-		cout<<"no";
+		cout<<"no existe ";
 
  
 }
